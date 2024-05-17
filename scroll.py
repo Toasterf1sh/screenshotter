@@ -1,4 +1,4 @@
-# This is a program that 
+# This is a program that can automatically capture screenshots of a pdf. 
 
 
 # When starting the program, click once on the page and 
@@ -20,9 +20,14 @@ counter = 0
 with mss() as sct:
     while True:
 
-        # The screen part to capture
-        # mouse.click(Button.left)
-        monitor = {"top": 137, "left": 453, "width": 534, "height": 755} 
+        # Replace x,y,a,b with respective coordinates of the dimensions 
+        # of the size of screenshot to be taken: 
+        
+        # top - top left corner y component
+        # left - top left corner x component
+        # width - bottom right corner x component
+        # height - bottom right corner y component
+        monitor = {"top": y, "left": x, "width": a, "height": b}
         sct_img = sct.grab(monitor)
         tools.to_png(sct_img.rgb, sct_img.size, output=f"image-{counter}.png")
 
