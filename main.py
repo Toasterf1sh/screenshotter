@@ -18,6 +18,7 @@ with mss() as sct:
 
         # Replace x,y,a,b with respective coordinates of the dimensions 
         # of the size of screenshot to be taken: 
+        
         # top - top left corner y component
         # left - top left corner x component
         # width - bottom right corner x component
