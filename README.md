@@ -5,6 +5,6 @@ Takes a screenshot of each page of a e-reader textbook.
    <img width="461" alt="Screenshot 2024-05-17 at 9 33 12 pm" src="https://github.com/alyssacheong/screenshotter/assets/106944368/f89946c8-049b-491e-aeeb-a02c9c42d92c">
 
 2. Enter in the dimensions of the top  of the e-reader page
-   <img width="614" alt="Screenshot 2024-05-17 at 9 33 31 pm" src="https://github.com/alyssacheong/screenshotter/assets/106944368/35acb189-1b04-4bf0-8ece-7eae21bec474">
+   <img width="628" alt="Screenshot 2024-05-17 at 9 35 08 pm" src="https://github.com/alyssacheong/screenshotter/assets/106944368/a0043192-69ee-4602-8ba9-752da6ea4f5f">
 
 3. Start program
