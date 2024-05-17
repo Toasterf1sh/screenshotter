@@ -1,6 +1,5 @@
 # This is a program that can automatically capture screenshots of a pdf. 
 
-
 # When starting the program, click once on the page and 
 # then move mouse off the area that is to be captured
 
