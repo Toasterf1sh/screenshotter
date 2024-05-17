@@ -1,3 +1,4 @@
+# Custom
 import time 
 import pyautogui
 import getpixelcolor
